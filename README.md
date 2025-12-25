@@ -1,5 +1,7 @@
 # AscendAI — Lead Generation & Assessment Platform
 
+![](./assets/images/flowchart.png)
+
 AscendAI is an AI-powered lead generation and assessment platform that helps identify and evaluate potential PayU customers through web search and intelligent analysis.
 
 ## Features
